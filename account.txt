@@ -1,0 +1,6 @@
+Account Number: 123
+Account Holder's Name: sauat
+Account Password: 123
+4-digit Pin: 1234
+Initial balance: 10000
+

@@ -1,0 +1,2 @@
+Initial balance for Account 123 has been set to NPR 10000
+
